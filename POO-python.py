@@ -106,7 +106,7 @@ def personaje_defender(heroe):
      heroe.defender()
      '''
 
-class CD:
+'''class CD:
     def __init__(self, autor, titulo, canciones): 
         self.autor = autor
         self.titulo = titulo
@@ -123,4 +123,4 @@ class CD:
 mi_cd = CD("Queen", "Greatest Hits", 24)
 
 print(mi_cd)
-print(len(mi_cd))
+print(len(mi_cd))'''
