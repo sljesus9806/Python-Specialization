@@ -1,0 +1,28 @@
+{ "Pizza" : 
+    [
+        {
+            "name": "Margherita",
+            "price": 5.99,
+            "description": "Tomato, mozzarella, basil",
+            "image": "https://images.rappi.com.mx/restaurants_background/pizza09-1680124183169.jpg"
+        },
+        {
+            "name": "Pepperoni",
+            "price": 7.99,
+            "description": "Tomato, mozzarella, pepperoni",
+            "image": "https://images.rappi.com.mx/restaurants_background/pizza09-1680124183169.jpg"
+        },
+        {
+            "name": "Hawaiian",
+            "price": 8.99,
+            "description": "Tomato, mozzarella, ham, pineapple",
+            "image": "https://images.rappi.com.mx/restaurants_background/pizza09-1680124183169.jpg"
+        }
+
+    ]
+
+
+
+
+
+}
